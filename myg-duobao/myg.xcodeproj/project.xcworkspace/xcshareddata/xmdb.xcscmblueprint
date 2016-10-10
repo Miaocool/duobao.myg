@@ -1,0 +1,226 @@
+{
+<<<<<<< .mine
+<<<<<<< .mine
+<<<<<<< .mine
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579",
+=======
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++FF04549",
+=======
+=======
+<<<<<<< .mine
+
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579",
+
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++FF04549",
+=======
+>>>>>>> .r26898
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++4D95210",
+<<<<<<< .mine
+>>>>>>> .r26871
+>>>>>>> .r26774
+=======
+>>>>>>> .r26896
+
+>>>>>>> .r26898
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+<<<<<<< .mine
+<<<<<<< .mine
+<<<<<<< .mine
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579" : {
+=======
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++112E013" : {
+
+    },
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++7DDBD75" : {
+=======
+=======
+<<<<<<< .mine
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579" : {
+
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++112E013" : {
+
+    },
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++7DDBD75" : {
+=======
+>>>>>>> .r26898
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++184DC5F" : {
+<<<<<<< .mine
+>>>>>>> .r26871
+=======
+>>>>>>> .r26896
+>>>>>>> .r26898
+
+    },
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++4D95210" : {
+>>>>>>> .r26774
+
+
+    },
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++1E70572" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+<<<<<<< .mine
+<<<<<<< .mine
+<<<<<<< .mine
+<<<<<<< .mine
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579" : 0
+=======
+=======
+<<<<<<< .mine
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++5357" : 0,
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019" : 0
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019" : 0
+=======
+>>>>>>> .r26807
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++112E013" : 0,
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++7DDBD75" : 0,
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++FF04549" : 0
+<<<<<<< .mine
+>>>>>>> .r26774
+=======
+>>>>>>> .r26787
+=======
+=======
+<<<<<<< .mine
+
+
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579" : 0
+
+
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++5357" : 0,
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019" : 0
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019" : 0
+
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++112E013" : 0,
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++7DDBD75" : 0,
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++FF04549" : 0
+
+
+
+=======
+>>>>>>> .r26898
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++184DC5F" : 0,
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++4D95210" : 0,
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++1E70572" : 0
+<<<<<<< .mine
+>>>>>>> .r26871
+>>>>>>> .r26807
+=======
+>>>>>>> .r26896
+>>>>>>> .r26898
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "825FD039-B2B4-4D55-A2E9-806704201C6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+<<<<<<< .mine
+<<<<<<< .mine
+<<<<<<< .mine
+<<<<<<< .mine
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579" : "%E6%A8%A1%20%20%20%20%20%20%E6%9D%BF\/"
+=======
+=======
+<<<<<<< .mine
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++5357" : "xmdb\/",
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019" : "mbxmdb%20\/"
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019" : "xmdb\/"
+=======
+>>>>>>> .r26807
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++112E013" : "xmdb\/",
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++7DDBD75" : "xmdb\/",
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++FF04549" : "mbxmdb\/"
+<<<<<<< .mine
+>>>>>>> .r26774
+=======
+>>>>>>> .r26787
+=======
+=======
+<<<<<<< .mine
+
+
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579" : "_mbyy\/"
+
+
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++5357" : "xmdb\/",
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019" : "mbxmdb%20\/"
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019" : "xmdb\/"
+
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++112E013" : "xmdb\/",
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++7DDBD75" : "xmdb\/",
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++FF04549" : "mbxmdb\/"
+
+=======
+>>>>>>> .r26898
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++184DC5F" : "xmdb\/",
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++4D95210" : "mbxmdb\/",
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++1E70572" : "xmdb\/"
+<<<<<<< .mine
+>>>>>>> .r26871
+>>>>>>> .r26807
+=======
+>>>>>>> .r26896
+>>>>>>> .r26898
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "xmdb",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mbxmdb\/xmdb.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svnapp.buguyuan.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+<<<<<<< .mine
+<<<<<<< .mine
+<<<<<<< .mine
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579"
+=======
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++112E013"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svnapp.buguyuan.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++7DDBD75"
+=======
+=======
+<<<<<<< .mine
+
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6579"
+
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++112E013"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svnapp.buguyuan.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++7DDBD75"
+=======
+>>>>>>> .r26898
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++184DC5F"
+<<<<<<< .mine
+>>>>>>> .r26871
+=======
+>>>>>>> .r26896
+>>>>>>> .r26898
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svnapp.buguyuan.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++1E70572"
+<<<<<<< .mine
+<<<<<<< .mine
+>>>>>>> .r26774
+=======
+=======
+
+>>>>>>> .r26898
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svnapp.buguyuan.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++6019+++4D95210"
+<<<<<<< .mine
+>>>>>>> .r26807
+=======
+
+>>>>>>> .r26898
+    }
+  ]
+}

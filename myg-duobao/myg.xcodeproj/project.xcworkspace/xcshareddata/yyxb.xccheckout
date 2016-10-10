@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>52310D39-502D-4255-A8D0-C919F9F070FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>yyxb</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8e106062-c720-9b4c-9e6a-ac9ad1efdbce++1493</key>
+		<string>svn://svnapp.buguyuan.com/bxs_ios/yangyi/yyxb</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>yyxb.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8e106062-c720-9b4c-9e6a-ac9ad1efdbce++1493</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>8e106062-c720-9b4c-9e6a-ac9ad1efdbce++1493</key>
+		<string>svn://svnapp.buguyuan.com</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://svnapp.buguyuan.com/bxs_ios/yangyi/yyxb/yyxb.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8e106062-c720-9b4c-9e6a-ac9ad1efdbce++1493</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8e106062-c720-9b4c-9e6a-ac9ad1efdbce++1493</string>
+			<key>IDESourceControlWCCName</key>
+			<string>yyxb</string>
+		</dict>
+	</array>
+</dict>
+</plist>

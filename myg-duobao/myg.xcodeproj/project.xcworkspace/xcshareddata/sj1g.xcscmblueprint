@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++3057",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++3057" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++3057" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "941C3ED6-EBF1-41F9-9F86-5B00DEB7D20C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++3057" : "sjdb\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sj1g",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "sj1g.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svnapp.buguyuan.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8e106062-c720-9b4c-9e6a-ac9ad1efdbce++3057"
+    }
+  ]
+}
