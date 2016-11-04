@@ -309,27 +309,30 @@
                 
                 NSDictionary *dict = responseDic[@"data"];
                 SettlementModel *model = [[SettlementModel alloc]initWithDictionary:dict];
-                //                DebugLog(@"===================%@",model.jiage);
-//                for (int i=0; i<model.pay_type.count; i++) {
-//                    NSDictionary*dic1=[model.pay_type objectAtIndex:i];
-//                    [self.classArray addObject:dic1[@"pay_class"]];
-//                    [self.zhifuNameArray addObject:dic1[@"pay_name"]];
-//                    [self.zhifuTishiArray addObject:dic1[@"tishi"]];
-//                    [self.zhifuColorArray addObject:dic1[@"color"]];
-//                    [self.zhifuImgArray addObject:dic1[@"img"]];
-//                    
-//                    DebugLog(@"---->%@",self.classArray);
-//                    DebugLog(@"++++>%@",self.zhifuNameArray);
-//                }
-                
-                
-                
-                [self.classArray addObject:@"wapalipay"];
-                [self.zhifuImgArray addObject:@"支付宝"];
-                [self.zhifuNameArray addObject:@"支付宝"];
-                [self.zhifuColorArray addObject:@"支付宝"];
-                [self.zhifuTishiArray addObject:@"支付宝"];
-                
+                if ([[UserDataSingleton userInformation].currentVersion isEqualToString:[UserDataSingleton userInformation].xinVersion]) {
+                    for (int i=0; i<model.pay_type.count; i++) {
+                        NSDictionary*dic1=[model.pay_type objectAtIndex:i];
+                        [self.classArray addObject:dic1[@"pay_class"]];
+                        [self.zhifuNameArray addObject:dic1[@"pay_name"]];
+                        [self.zhifuTishiArray addObject:dic1[@"tishi"]];
+                        [self.zhifuColorArray addObject:dic1[@"color"]];
+                        [self.zhifuImgArray addObject:dic1[@"img"]];
+                        //
+                        DebugLog(@"---->%@",self.classArray);
+                        DebugLog(@"++++>%@",self.zhifuNameArray);
+                    }
+                    
+                }else{
+                    
+                    
+                    //                    wapalipayhttp://www.miyungou.com/statics/uploads/pay/alipay.png
+                    [self.classArray addObject:@"wapalipay"];
+                    [self.zhifuNameArray addObject:@"支付宝网页支付"];
+                    [self.zhifuTishiArray addObject:@"推荐5元以上支付的用户使用"];
+                    [self.zhifuImgArray addObject:@"http://www.miyungou.com/statics/uploads/pay/alipay.png"];
+                    [self.zhifuColorArray addObject:@"#FF0000"];
+                    
+                }
                 SettlementViewController *settVC = [[SettlementViewController alloc]init];
                 settVC.settModel = model;
                 settVC.goods = string;

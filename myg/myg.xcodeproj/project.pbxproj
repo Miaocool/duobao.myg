@@ -3791,9 +3791,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = myg/myg.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer: chunqing wang (4CU2T68XK7)";
-				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer: chunqing wang (4CU2T68XK7)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: chunqing wang (4CU2T68XK7)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: chunqing wang (X69Y3Y446P)";
+				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Distribution: chunqing wang (X69Y3Y446P)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: chunqing wang (X69Y3Y446P)";
 				DEVELOPMENT_TEAM = X69Y3Y446P;
 				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = NO;
@@ -3831,8 +3831,8 @@
 				PODS_ROOT = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.duobao.myg;
 				PRODUCT_NAME = myg;
-				PROVISIONING_PROFILE = "4382aaaf-5fe0-46c5-bddc-7f23dd25c68f";
-				PROVISIONING_PROFILE_SPECIFIER = duobao.dev;
+				PROVISIONING_PROFILE = "a030fd8a-7e58-4a18-8267-315a2e4c6a63";
+				PROVISIONING_PROFILE_SPECIFIER = duobao.pro;
 			};
 			name = Debug;
 		};
@@ -3843,8 +3843,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = myg/myg.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer: chunqing wang (4CU2T68XK7)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: chunqing wang (4CU2T68XK7)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: chunqing wang (X69Y3Y446P)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: chunqing wang (X69Y3Y446P)";
 				DEVELOPMENT_TEAM = X69Y3Y446P;
 				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = NO;
@@ -3882,8 +3882,8 @@
 				PODS_ROOT = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.duobao.myg;
 				PRODUCT_NAME = myg;
-				PROVISIONING_PROFILE = "4382aaaf-5fe0-46c5-bddc-7f23dd25c68f";
-				PROVISIONING_PROFILE_SPECIFIER = duobao.dev;
+				PROVISIONING_PROFILE = "a030fd8a-7e58-4a18-8267-315a2e4c6a63";
+				PROVISIONING_PROFILE_SPECIFIER = duobao.pro;
 			};
 			name = Release;
 		};

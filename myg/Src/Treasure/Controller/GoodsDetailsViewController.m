@@ -343,10 +343,10 @@
         yyxb.layer.cornerRadius = 5;
         
         [_carview addSubview:yyxb];
-        
-        if (![[UserDataSingleton userInformation].currentVersion isEqualToString:[UserDataSingleton userInformation].xinVersion]) {
-            yyxb.hidden = YES;
-        }
+//        
+//        if (![[UserDataSingleton userInformation].currentVersion isEqualToString:[UserDataSingleton userInformation].xinVersion]) {
+//            yyxb.hidden = YES;
+//        }
         
         UIButton*carimgBtn=[[UIButton alloc]initWithFrame:CGRectMake(10, 10, 35, 35)];
         [carimgBtn addTarget:self action:@selector(pushShopping) forControlEvents:UIControlEventTouchUpInside];
@@ -369,9 +369,9 @@
         gotoplay.titleLabel.font = [UIFont systemFontOfSize:15];
         gotoplay.layer.cornerRadius = 5;
         [_carview addSubview:gotoplay];
-        if (![[UserDataSingleton userInformation].currentVersion isEqualToString:[UserDataSingleton userInformation].xinVersion]) {
-            gotoplay.hidden = YES;
-        }
+//        if (![[UserDataSingleton userInformation].currentVersion isEqualToString:[UserDataSingleton userInformation].xinVersion]) {
+//            gotoplay.hidden = YES;
+//        }
         if ([_model.sale isEqualToString:@"2"]) {
             UILabel*lbxiajia=[[UILabel alloc]initWithFrame:CGRectMake(0, 0, MSW, 60)];
             lbxiajia.text=@"该商品已下架";

@@ -109,10 +109,10 @@
     [self.goodsButton setTitle:@"参与" forState:UIControlStateNormal];
     [self.goodsButton addTarget:self action:@selector(addShopping) forControlEvents:UIControlEventTouchDown];
     
-    
-    if (![[UserDataSingleton userInformation].currentVersion isEqualToString:[UserDataSingleton userInformation].xinVersion]) {
-        self.goodsButton.hidden = YES;
-    }
+//    
+//    if (![[UserDataSingleton userInformation].currentVersion isEqualToString:[UserDataSingleton userInformation].xinVersion]) {
+//        self.goodsButton.hidden = YES;
+//    }
     
     
     [self addSubview:self.goodsButton];
